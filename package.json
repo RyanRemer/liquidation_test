@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "ethers": "^5.7.2",
+    "reflect-metadata": "^0.1.13"
+  },
+  "dependencies": {
+    "@aave/contract-helpers": "^1.13.6",
+    "@aave/math-utils": "^1.13.6"
+  },
+  "name": "defi_liquid_2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module"
+}
